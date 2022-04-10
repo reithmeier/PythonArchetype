@@ -10,7 +10,7 @@ def test_world():
     hw = HelloWorld()
 
     # when
-    res = hw.hello(" ")
+    res = hw.world(" ")
 
     # then
     assert res == "Hello World"
