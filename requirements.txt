@@ -4,3 +4,4 @@ pytest
 coverage
 black
 pylint
+pytest-cov
