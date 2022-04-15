@@ -8,14 +8,12 @@ Archetype python project that contains the packages
 * pytest
 * coverage
 
-in addition to a `tox.ini` configuration.
+in addition to a `tox.ini` configuration and a github CodeQL configuration.
 
 ## Requirements
 
 * python
 * pip
-* setuptools
-* tox
 
 ## Usage
 
