@@ -1,7 +1,8 @@
 # PythonArchetype
 
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/reithmeier/PythonArchetype/blob/main/LICENSE)
-[![Actions Status](https://github.com/reithmeier/PythonArchetype/actions/workflows/python-tox.yml/badge.svg)](https://github.com/reithmeier/PythonArchetype/actions)
+[![Actions Status](https://github.com/reithmeier/PythonArchetype/actions/workflows/python-tox.yml/badge.svg)](https://github.com/reithmeier/PythonArchetype/actions/workflows/python-tox.yml)
+[![Actions Status](https://github.com/reithmeier/PythonArchetype/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/reithmeier/PythonArchetype/actions/workflows/codeql-analysis.yml)
 
 
 ## Description
