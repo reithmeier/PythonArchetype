@@ -9,7 +9,9 @@
 
 Archetype python project that contains the packages
 * black
+* isort
 * pylint
+* flake8
 * pytest
 * coverage
 
