@@ -14,6 +14,7 @@ Archetype python project that contains the packages
 * flake8
 * pytest
 * coverage
+* pytest-cov
 
 in addition to a `tox.ini` configuration and a github CodeQL configuration.
 
