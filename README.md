@@ -35,3 +35,17 @@ Start tox
 tox
 ````
 
+
+## License
+
+PedSim is MIT licensed, as found in the [LICENSE](./LICENSE) file.
+
+## Security Policy
+
+The security policy can be found in the [SECURITY.md](./SECURITY.md) file.
+
+## Contributing
+
+We welcome your contribution to this project.
+
+The contributing guidelines can be found in the [CONTRIBUTING.md](./CONTRIBUTING.md) file.
